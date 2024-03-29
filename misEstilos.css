@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: brown;
+    padding: 10px; /* Espaciado interno */
+    border: 2px solid #333; /* Borde sólido de 2px */
+    border-radius: 5px; /* Esquinas redondeadas */
+    display: inline-block;/* Permite ajustar el tamaño del recuadro al contenido */
+    background-color: chocolate;
+}
